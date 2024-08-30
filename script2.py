@@ -1,1 +1,2 @@
-importa pandas as pd:
+import pandas as pd
+# this i smy pandas file
