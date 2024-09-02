@@ -1,1 +1,0 @@
-importa pandas as pd:
